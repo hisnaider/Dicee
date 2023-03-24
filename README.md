@@ -1,16 +1,13 @@
 # dicee
 
-A new Flutter project.
+Um aplicativo com dois dados na tela. Quando um dado é tocado, a face dos dois dados é mudado pra uma face de valor aleatório.
 
-## Getting Started
+Esse é um aplicativo feito apenas pra praticar Flutter, há nenhuma utilidade. Faz parte do curso "The Complete Flutter Development Bootcamp with Dart" feito pela Dr. Angela Yu
 
-This project is a starting point for a Flutter application.
+## Como rodar esse aplicativo?
 
-A few resources to get you started if this is your first Flutter project:
+1 - Faça um clone desse repositório
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2 - Rode o seguinte comando "flutter pub get" no terminal pra instalar todas dependencias
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3 - Execute o aplicativo (F5 no VSCode) e espere ele ser criado no dispostivo virtual ou fisico
